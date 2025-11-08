@@ -1,0 +1,20 @@
+.title{
+    color: blue;
+    font-family: Arial, sans-serif;
+
+}
+
+.subtitle{
+    color: green;
+    font-family: Arial, sans-serif;
+}
+
+.button{
+    background-color: #ffa500;
+    border-radius: 35%;
+    border: transparent;
+    padding: 10px 20px;
+    margin: 5px;
+
+}
+
